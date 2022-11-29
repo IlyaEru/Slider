@@ -18,7 +18,7 @@ Based on Smilga's Design
 1. Clone the repo
 
 ```sh
-git clone
+git clone https://github.com/IlyaEru/Slider.git
 ```
 
 2. Install NPM packages
